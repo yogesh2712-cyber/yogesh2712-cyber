@@ -51,19 +51,14 @@ Project Description Tech Home Loan Prediction Classification model predicting lo
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yogesh2712-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh2712-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-Show Image
-
-
-📬 Contact Me
 
 
 📧 Email: yogeshrathod2712@gmail.com
+
 📱 Phone: +91 7558529117
+
 💼 LinkedIn: yogesh-rathod-197b79303
+
 🎨 Behance: yogesh2712-cyber
 
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=yogesh2712-cyber&icon=0&color=0" /></a>
-</p>
-<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
