@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yogesh Rathod</h1>
-<h3 align="center">Data Analyst | Data Science | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Science | Machine Learning </h3>
 <p align="center">
   <a href="https://linkedin.com/in/yogesh-rathod-197b79303"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://behance.net/yogesh2712-cyber"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
@@ -42,15 +42,10 @@ Tools: Git · GitHub · Jupyter Notebook
 
 🚀 Featured Projects
 
-ProjectDescriptionTechHome Loan PredictionClassification model predicting loan approval eligibility from customer demographic & financial dataPython, Scikit-learnBank Financial AnalysisInteractive Power BI dashboards tracking KPIs from banking datasetsPython, SQL, Power BIEmployee Performance AnalysisEDA uncovering productivity patterns to support HR decision-makingPython, SQLWeather Forecasting ModelPredictive model forecasting weather conditions from historical dataPython, ML, PlotlyDisease Detection SystemClassification model for disease likelihood, deployed via web interfacePython, ML, Web
-
-
-🔗 Replace the links above with the direct URLs to each project's repo.
+Project Description Tech Home Loan Prediction Classification model predicting loan approval eligibility from customer demographic & financial dataPython, Scikit-learnBank Financial AnalysisInteractive Power BI dashboards tracking KPIs from banking datasets Python, SQL, Power BI Employee Performance Analysis EDA uncovering productivity patterns to support HR decision-makingPython, SQL Weather Forecasting Model Predictive model forecasting weather conditions from historical dataPython, ML, Plotly Disease Detection System Classification model for disease likelihood, deployed via web interfacePython, ML, Web
 
 
 
-
-📊 GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yogesh2712-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
