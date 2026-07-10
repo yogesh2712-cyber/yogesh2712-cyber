@@ -12,8 +12,11 @@ I'm a Computer Science Engineering graduate (SGPA 9.50) passionate about Data Sc
 
 
 🔭 Currently working on: real-time client ML projects & dashboards @ Rubixe
+
 🌱 Learning: advanced ML techniques & data engineering workflows
+
 💬 Ask me about: Python, SQL, EDA, Predictive Modeling, Power BI
+
 📍 Based in: Pune, Maharashtra, India
 
 
