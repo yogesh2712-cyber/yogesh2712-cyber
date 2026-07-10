@@ -23,13 +23,6 @@ I'm a Computer Science Engineering graduate (SGPA 9.50) passionate about Data Sc
 
 🛠️ Skills
 
-Languages: Python · SQL · C++ · Java
-Data Analytics: Data Cleaning · Data Wrangling · EDA · Statistical Analysis · Feature Engineering
-Machine Learning: Scikit-learn · Predictive Modeling · Classification · Regression
-Visualization: Power BI · Excel · Matplotlib · Seaborn · Plotly
-Databases: MySQL · PostgreSQL · Google BigQuery · MongoDB
-Tools: Git · GitHub · Jupyter Notebook
-
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
